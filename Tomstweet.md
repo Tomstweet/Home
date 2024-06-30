@@ -1,4 +1,5 @@
 # Page for Sharing Tom's Thoughts and Humor
+<img width="1185" alt="Screenshot 2024-06-30 at 1 56 40 PM" src="https://github.com/Tomstweet/Home/assets/174220171/7fdc5a40-360f-4714-ae75-c20f2e292eac">
 
 Hello! Welcome to the page where Tom shares his thoughts and humor. Tom is an adorable and witty cat who brings his unique perspective and humor to various topics.
 
